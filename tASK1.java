@@ -1,0 +1,2 @@
+public class tASK1 {
+}
